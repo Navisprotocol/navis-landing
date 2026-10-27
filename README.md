@@ -36,7 +36,7 @@ Navis introduces a state-of-the-art **Dual-Guard Architecture™**, granting use
 
 ### 🚀 Ecosystem Repositories
 - [`navis-landing`](https://github.com/Navisprotocol/navis-landing) - Official Landing Page & Pre-genesis Web App Showcase.
-- [`navis-docs`](https://github.com/Navisprotocol/navis-docs) - Whitepaper, Tokenomics ($RADI & $NAV), and System Architecture.
+- [`navis-docs`](https://github.com/Navisprotocol/navis-docs) - Technical Documentation, Whitepaper, and System Architecture.
 - [`navis-quant-toolkit`](https://github.com/Navisprotocol/navis-quant-toolkit) - Open-source quantitative utilities and data processing SDKs.
 
 ---
