@@ -22,7 +22,7 @@ Navis is an advanced autonomous quantitative trading platform designed to bridge
 * **Autonomous Execution:** Seamless and secure automated risk management.
 
 ### 🔗 Official Channels & Community
-* **Official X (Twitter):** [@Navis_protocol](https://x.com/Navis_protocol)
+* **Official X (Twitter):** [@Navis_protocol](https://x.com/navis-landing)
 * **Telegram Channel:** [t.me/NAVIS_protocol](https://t.me/NAVIS_protocol)
 * **Official Contact:** [info@navisprotocol.com](mailto:info@navisprotocol.com)
 * **GitHub Organization:** [github.com/Navisprotocol](https://github.com/Navisprotocol)
