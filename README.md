@@ -22,13 +22,13 @@ Navis is an advanced autonomous quantitative trading platform designed to bridge
 * **Autonomous Execution:** Seamless and secure automated risk management.
 
 ### 🔗 Official Channels & Community
-* **Official X (Twitter):** [@Navis_protocol](https://x.com/navis-landing)
+* **Official X (Twitter):** [@Navis_protocol](https://x.com/navis-protocol)
 * **Telegram Channel:** [t.me/NAVIS_protocol](https://t.me/NAVIS_protocol)
 * **Official Contact:** [info@navisprotocol.com](mailto:info@navisprotocol.com)
 * **GitHub Organization:** [github.com/Navisprotocol](https://github.com/Navisprotocol)
 
 ### 🚀 Ecosystem Repositories
-* [`navis-protocol`](https://github.com/Navisprotocol/navis-protocol) - Official Landing Page & Pre-genesis Web App Showcase.
+* [`navis-protocol`](https://github.com/Navisprotocol/navis-landing) - Official Landing Page & Pre-genesis Web App Showcase.
 * [`navis-docs`](#) - Whitepaper, Tokenomics ($RADI & $NAV), and System Architecture.
 * [`navis-quant-toolkit`](#) - Open-source quantitative utilities and data processing SDKs.
 
